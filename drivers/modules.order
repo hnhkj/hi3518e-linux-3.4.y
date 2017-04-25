@@ -1,0 +1,8 @@
+kernel/drivers/scsi/scsi_wait_scan.ko
+kernel/drivers/net/wireless/zd1201.ko
+kernel/drivers/usb/gadget/hi_hs_dev/dwc_otg.ko
+kernel/drivers/usb/gadget/g_file_storage.ko
+kernel/drivers/usb/gadget/hi_hs_dev/dwc_otg.ko
+kernel/drivers/usb/gadget/g_file_storage.ko
+kernel/drivers/usb/gadget/hi_hs_dev/dwc_otg.ko
+kernel/drivers/usb/gadget/g_file_storage.ko

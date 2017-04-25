@@ -1,0 +1,2 @@
+kernel/drivers/usb/gadget/hi_hs_dev/dwc_otg.ko
+kernel/drivers/usb/gadget/g_file_storage.ko

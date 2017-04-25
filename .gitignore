@@ -1,0 +1,16 @@
+*.o
+*.cmd
+*.ko
+*.d
+*.S
+.config
+.mailmap
+*.map
+.tmp_versions/
+.tmp_vmlinux
+.tmp_vmlinux1
+.tmp_vmlinux2
+.version
+Module.symvers
+vmlinux
+REPORTING-BUGS
